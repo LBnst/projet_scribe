@@ -1,0 +1,15 @@
+.venv/
+
+#api key
+**/.streamlit/secrets.toml
+secrets.toml
+
+#pycache etc
+__pycache__/
+*.pyc
+
+#fichiés créés par l'app
+**/enregistrement.wav
+**/import_*
+transcription.txt
+**/stockage.json

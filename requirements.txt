@@ -1,0 +1,7 @@
+numpy
+sounddevice
+soundfile
+mistralai<2
+streamlit
+openai
+fpdf2
